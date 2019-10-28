@@ -1,5 +1,5 @@
-##  cityrealty web scraping
- NYC rental price determinants - part 2
+##  cityrealty web scraping and analysis of apartment rental market in NYC
+ NYC rental price determinants by intrinsic factors - part 2
  
  ##### this is continuation of https://github.com/ted2020/determining-the-NYC-rental-prices...
  ##### part 1 was focused on extrinsic factors in determining the rental price.
@@ -70,7 +70,7 @@
  ###### Building Type
 
 
- ##### personal  factors: 
+ #### personal  factors: 
  ###### Single/Married
  ###### Have kids
  ###### Education level
