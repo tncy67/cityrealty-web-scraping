@@ -200,6 +200,8 @@ fig, ax = plt.subplots(figsize=(6,2.5))
 _ = ax.scatter(residual, pred_val)
 
 
+residual.sum()
+
 # ### RMSE
 
 def rmse_accuracy_percentage(a,b): 
