@@ -2,6 +2,9 @@
  NYC rental price determinants by intrinsic factors - part 2
  
  ##### this is continuation of https://github.com/ted2020/determining-the-NYC-rental-prices...
+ 
+ ##### https://nycdatascience.com/blog/student-works/what-are-the-most-influential-predictors-of-rental-and-sale-price-of-an-apartment-part-2/
+ 
  ##### part 1 was focused on extrinsic factors in determining the rental price.
  ##### part 2 is focused on intrinsic factors in determining the rental price.
  ##### part 3 will be focused on personal factors in determining the rental price.
